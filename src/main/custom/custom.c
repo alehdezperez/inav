@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define MAXIMUM_STRING_SIZE 40
+#define MAXIMUM_STRING_SIZE 50
 
 /*AHP*/
 void rt_OneStep(void);
